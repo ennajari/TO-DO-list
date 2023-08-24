@@ -1,30 +1,28 @@
-<h1>To-Do List App</h1>
-        To-Do List App is a simple web application that allows you to create and manage a list of tasks to do. This user-friendly app enables you to easily add new tasks, mark tasks as complete, and delete tasks from the list.
-        
-        <h2>Features</h2>
-        <ul>
-            <strong>Task Addition:</strong> Utilize the input field to add new tasks to your list. Click the "Add Task" button to add them.
-            <strong>Mark as Complete:</strong> When you've finished a task, you can mark it as complete by clicking the "Delete" button.
-            <strong>Task Deletion:</strong> If a task is no longer needed, you can remove it from the list by clicking the "Delete" button next to the task.
-        </ul>
-        
-        <h2>How to Use the App</h2>
-        <ol>
-            Open the file <code>index.html</code> in your preferred web browser.
-            Enter the task you want to add in the input field.
-            Click the "Add Task" button to add the task to the list.
-            To mark a task as complete, click the "Delete" button next to the task.
-            To remove a task from the list, also click the "Delete" button next to the task.
-        </ol>
-        
-        <h2>Customization</h2>
-        <p>If you wish to customize the app, you can modify the <code>styles.css</code> file to adjust the visual styles of the application. Additionally, you can explore the <code>script.js</code> file to make changes to the app's behavior, such as adding additional features.</p>
-        
-        <h2>Author</h2>
-        <p>This application was created by [Your Name].</p>
-        
-        <h2>License</h2>
-        <p>This project is under the [License] license. You are free to clone and customize it according to your needs.</p>
-        
-        <p>Enjoy the simplicity and functionality of the To-Do List App for organizing your daily tasks! If you have any questions or comments, feel free to contact us at [contact email address].</p>
-  
+<h1>※To-Do List App>※</h1>
+To-Do List App est une application Web simple qui vous permet de créer et de gérer une liste de tâches à faire. Cette application conviviale vous permet d'ajouter facilement de nouvelles tâches, de marquer des tâches comme complètes et de supprimer des tâches de la liste.
+
+<h2>▶Fonctionnalités</h2>
+Ajout de tâches : Utilisez le champ d'entrée pour ajouter de nouvelles tâches à votre liste. Cliquez sur le bouton "Add Task" pour les ajouter.
+
+Marquer comme complète : Lorsque vous avez terminé une tâche, vous pouvez la marquer comme complète en cliquant sur le bouton "Delete".
+
+Suppression de tâches : Si une tâche n'est plus nécessaire, vous pouvez la supprimer de la liste en cliquant sur le bouton "Delete" à côté de la tâche.
+
+<h1>Comment utiliser l'application</h1>
+Ouvrez le fichier index.html dans votre navigateur Web préféré.
+
+Saisissez le nom de la tâche que vous souhaitez ajouter dans le champ d'entrée.
+
+Cliquez sur le bouton "Add Task" pour ajouter la tâche à la liste.
+
+Pour marquer une tâche comme complète, cliquez sur le bouton "Delete" à côté de la tâche.
+
+Pour supprimer une tâche de la liste, cliquez également sur le bouton "Delete" à côté de la tâche.
+
+<h3>Personnalisation∰</h3>
+Si vous souhaitez personnaliser l'application, vous pouvez modifier le fichier styles.css pour ajuster les styles visuels de l'application. De plus, vous pouvez explorer le fichier script.js pour apporter des modifications au comportement de l'application, comme ajouter des fonctionnalités supplémentaires.
+
+Auteur
+Cette application a été créée par Abdellah Ennajari.
+
+Profitez de la simplicité et de la fonctionnalité de la To-Do List App pour organiser vos tâches au quotidien ! Si vous avez des questions ou des commentaires, n'hésitez pas à nous contacter à abdella ennajari2018@gmail.com.
